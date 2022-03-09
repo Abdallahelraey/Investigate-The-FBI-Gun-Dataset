@@ -29,6 +29,7 @@
 <li>The over all trend in increasing and becomming faster over time.</li>
 <li>Long gun is highest registed type of gun in number among the others, it is positively correlated with totals.</li>
 </ul>
+
 # Result :
 >There is postive trend in gun purchase over the years and state is the most important variable for comparing the data along with few weak association with the census variables.
 
