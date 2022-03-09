@@ -33,5 +33,5 @@
 >There is postive trend in gun purchase over the years and state is the most important variable for comparing the data along with few weak association with the census variables.
 
 # Conclusion
-In the current study,a good amount of perfound analysis has been carried out.Prior to each step,prior to each step,detailed instructions was given and interpretations were provided afterwards.the data set included two tables, the data was ranged from 1998 to 2017,which consested of detailed information on regestration gunsbased on substin, the analysis would be more reliable opposed to more small_scale analysis.
+>In the current study,a good amount of perfound analysis has been carried out.Prior to each step,prior to each step,detailed instructions was given and interpretations were >provided afterwards.the data set included two tables, the data was ranged from 1998 to 2017,which consested of detailed information on regestration gunsbased on substin, the >analysis would be more reliable opposed to more small_scale analysis.
 
