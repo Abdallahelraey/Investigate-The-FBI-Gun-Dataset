@@ -23,12 +23,12 @@
 >A lot of missing "nan" values in the dataset which could affect our understanding of the long term insights of particular variable.
 
 # Findings :
-<ul>
-><li>Utah state had the highest purchages record for persons under 18 years, percent on April 1, 2010, and the percent is 31.<li>
-><li>Kentucky has the largest count of total gun sales.<li>
-><li>The over all trend in increasing and becomming faster over time.<li>
-><li>Long gun is highest registed type of gun in number among the others, it is positively correlated with totals.<li>
-<ul>
+</ul>
+<li>Utah state had the highest purchages record for persons under 18 years, percent on April 1, 2010, and the percent is 31.</li>
+<li>Kentucky has the largest count of total gun sales.</li>
+<li>The over all trend in increasing and becomming faster over time.</li>
+<li>Long gun is highest registed type of gun in number among the others, it is positively correlated with totals.</li>
+</ul>
 # Result :
 >There is postive trend in gun purchase over the years and state is the most important variable for comparing the data along with few weak association with the census variables.
 
